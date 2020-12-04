@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@1,400;1,700&display=swap" rel="stylesheet');
+
 body{
     font-family: "Crimson Text",sans-serif; 
-    color: #3a2e2e; 
 }
 *{
     margin: 0 auto;
@@ -36,7 +36,7 @@ button{
     font-family: inherit;
     border: none;
 }
-#outputDiv{
+#output-Div{
     width: 100%;
     min-height: 10vh;
     max-height: 20vh;
