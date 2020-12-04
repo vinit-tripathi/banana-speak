@@ -35,6 +35,7 @@ button{
     font-size: large;
     font-family: inherit;
     border: none;
+    border-radius: .5rem;
 }
 #output-Div{
     width: 100%;
